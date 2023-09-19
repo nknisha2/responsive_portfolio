@@ -2,7 +2,7 @@
 
 
 
-# I've created responsive web designs using HTML and CSS, enhanced with media queries for optimal performance on various screen sizes and devices. These projects showcase my ability to build visually appealing and user-friendly websites that adapt seamlessly to the user's environment.
+ I've created responsive web designs using HTML and CSS, enhanced with media queries for optimal performance on various screen sizes and devices. These projects showcase my ability to build visually appealing and user-friendly websites that adapt seamlessly to the user's environment.
 
 
 
